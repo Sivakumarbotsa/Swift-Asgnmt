@@ -1,3 +1,10 @@
+## 🔗 Live Demo
+
+👉 [Click here to view the deployed app](https://swift-asgnmt.netlify.app/)
+
+
+
+
 # 🧾 Frontend Dashboard – Comments Viewer
 
 This is a React-based frontend assignment for a dashboard that displays and sorts comment data using a clean UI and REST API from [JSONPlaceholder](https://jsonplaceholder.typicode.com/). It supports sorting, searching, pagination, persistent filters, and profile navigation.
